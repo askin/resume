@@ -1,0 +1,150 @@
+{
+  "$schema" : "https://json-schema.org/draft-03/schema",
+  "basics": {
+    "name": "Aşkın Özgür",
+    "label": "Senior Software Developer, Backend",
+    "image": "https://askin.ws/uploads/avatar.png",
+    "email": "askin@askin.ws",
+    "phone": "+905302821648",
+    "website": "https://askin.ws/",
+    "summary": "I'm a software developer with over 10 years of experience in backend development. My main stack build on <b>Java</b> and Java related technologies(<b>Spring/Spring Boot</b>, <b>Kotlin</b>). I also used other programming languages like <b>Python</b>, <b>JavaScript</b> etc.",
+    "location": {
+      "countryCode": "TR",
+      "address": "Karşıyaka",
+      "city": "İzmir",
+      "postalCode": "35580"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "askin",
+        "url": "https://github.com/askin/"
+      },
+      {
+        "network": "Linkedin",
+        "username": "askinozgur",
+        "url": "https://www.linkedin.com/in/askinozgur/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Rise Technology, Consulting & Academy",
+      "position": "Senior Java Developer",
+      "startDate": "2023-04-03",
+      "endDate": "2024-11-15",
+      "highlights": [
+        "Design and implementation of e-commerce platform with microservices architecture ",
+        "Design and implementation of payment service with multiple providers. <b>Masterpass</b> (Rest API), <b>Craftgate</b> (Rest API/SDK), <b>Şok Wallet</b> - Win (SOAP)",
+        "Integration of 3rd party service for e-commerce platform (<b>Mobiliva</b> for dropshipping sales, <b>OBASE</b> for invoice requirements)"
+      ],
+      "summary": "I worked on e-commerce transformation project. (<b>Cepte Şok</b>, <b><a href=\"https://www.sokmarket.com.tr/\">https://www.sokmarket.com.tr/</a></b>, released at March 2024)",
+      "url": "https://rise-consulting.net/",
+      "location": "İzmir, Turkey"
+    },
+    {
+      "name": "FYK Bilgi Teknolojileri A.Ş.",
+      "position": "Senior Backend Developer",
+      "startDate": "2022-06-06",
+      "endDate": "2023-01-17",
+      "highlights": [
+        "Implementation of Rest APIs with Spring Boot",
+        "API integration for insurance industry with Spring Boot"
+      ],
+      "summary": "",
+      "url": "https://fykmobile.com/",
+      "location": "İzmir, Turkey"
+    },
+    {
+      "name": "Hermes İletişim",
+      "position": "Software Developer",
+      "startDate": "2013-02-28",
+      "endDate": "2022-05-31",
+      "highlights": [
+        "Web Based Call Center Development (with WebRTC)",
+        "Mass messaging system for IVR, Voice Message and FAX on Asterix PBX",
+        "Soap and Rest API Integration for sms providers with Java",
+        "API integration for SMPP (Short Message Peer-to-Peer) integration with Node.js",
+        "Mass Mailing Service design and implementation (1+ Million daily)",
+        "DevOps (Building pipeline for Java, Python and Node.js Applications)"
+      ],
+      "summary": "",
+      "url": "https://www.hermesiletisim.net/",
+      "location": "Izmir, Turkey"
+    },
+    {
+      "name": "Dokuz Eylul University",
+      "position": "Software Developer",
+      "startDate": "2010-09-30",
+      "endDate": "2013-01-31",
+      "highlights": [
+        "Smart card (Mifare) programming",
+        "Pos Machine / Linux System Development with C/C++",
+        "Server socket programming with Java"
+      ],
+      "summary": "",
+      "url": "https://www.deu.edu.tr/",
+      "location": "Izmir, Turkey"
+    },
+    {
+      "name": "TUBITAK",
+      "position": "Pardus/Intern",
+      "startDate": "2009-08-31",
+      "endDate": "2009-08-31",
+      "highlights": [],
+      "summary": "PiSi PackageKit Backend",
+      "url": "https://tubitak.gov.tr/",
+      "location": "Izmir, Turkey"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dokuz Eylül Üniversitesi",
+      "area": "Computer Engineering",
+      "studyType": "BS",
+      "startDate": "2004-12-31",
+      "endDate": "2014-01-17",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": ["Java", "Kotlin", "Spring", "Spring Boot", "Hibernate", "Python", "Fast API", "OOP", "Rest API", "SOAP", "RabbitMQ", "Kafka", "Redis", "Reactive Programming"]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": ["Jenkins", "GitLab CI/CD", "Docker", "Zabbix", "Graylog", "Redmine", "GCP", "AWS", "Linux", "Shell Script", "Nginx"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "İletişim Makinesi",
+      "startDate": "2010-02-28",
+      "summary": "An infrastructure for sending SMS, fax, voice broadcast, outbound IVR and email by using Turkcell's services and its own SIP servers.",
+      "url": "http://live.iletisimmakinesi.com"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
